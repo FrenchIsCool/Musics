@@ -1,0 +1,89 @@
+[
+  {
+    "category": "Epique",
+    "tracks": [
+      { "name": "Important [POWER OF WILL]", "id": "124638728287399" },
+      { "name": "PLUS ULTRA [YOU SAY RUN]", "id": "121508740810765" },
+      { "name": "Ultra Epique [REALLY SLOW MOTION]", "id": "133798749097918" },
+      { "name": "Révelation / Eveil [Kaizen (Epique + Drop()]", "id": "111959439277224" },
+      { "name": "Epique, Lourd Combat [Battle Cry]", "id": "89932197430005" },
+      { "name": "Important/Révelation [Bird in a Cage]", "id": "107879898765860" },
+      { "name": "Motivation [Claim Your Destiny (Guitare + Drop)]", "id": "104337058687793" },
+      { "name": "Epique Puis Violon [Awaken]", "id": "107863483621590" },
+      { "name": "Treachery [Bleach]", "id": "115419812553867" },
+      { "name": "Epique [Transformers 5]", "id": "117349730201538" }
+    ]
+  },
+  {
+    "category": "Peur",
+    "tracks": [
+      { "name": "Incomfort [NO IM NOT A HUMAN]", "id": "100920965029283" },
+      { "name": "Frisson [LAVA CASTLE]", "id": "88506317750276" },
+      { "name": "...", "id": "1234567892" },
+      { "name": "...", "id": "1234567893" }
+    ]
+  },
+  {
+    "category": "Combat",
+    "tracks": [
+      { "name": "DOOM", "id": "90021265981669" },
+      { "name": "Confrontation [Before Lights Out]", "id": "94515669951432" },
+      { "name": "Combat Emouvant [Our Drafts Unite]", "id": "108802432873302" },
+      { "name": "Action [Reluctant Heroes]", "id": "90481357442847" },
+      { "name": "Action puis difficulté [Counter Attack Mankind]", "id": "132854173784856" },
+      { "name": "Combat Sans Conséquences [Army Attack]", "id": "81315061494624" },
+      { "name": "Combat Ambiance [DOA]", "id": "124455831918047" },
+      { "name": "Combat/Titans [Dancing Titan Battle Theme]", "id": "139866743895459" },
+      { "name": "Titans [HxH Rock]", "id": "79661165783012" },
+      { "name": "Titans [Your Battle is my Battle (JJK)]", "id": "87019218022276" }
+    ]
+  },
+  {
+    "category": "Ambiance",
+    "tracks": [
+      { "name": "Joviale [ENCANTO(forza 5)]", "id": "98596822459954" },
+      { "name": "Inspirant [LAST SON]", "id": "89754730523954" },
+      { "name": "Triste [WHERE IS MY MIND]", "id": "76276829229286" },
+      { "name": "Inquiétant [SKINWALKER SERENADE]", "id": "79157352687108" },
+      { "name": "Calme [In the Pool (PIANO)]", "id": "137078375235756" },
+      { "name": "Calme [SOUND OF HEART]", "id": "71417437488889" },
+      { "name": "Calme [Voices of the Chord (GUITARE DOUCE)]", "id": "132283428883484" },
+      { "name": "Joie après effort/Evenement [Flowers]", "id": "132432804428604" },
+      { "name": "Calme Heureux [Musique de SERLO]", "id": "72102915859907" },
+      { "name": "Inquiétant/Tension [Titan Invasion]", "id": "74308033069841" },
+      { "name": "Violon [Ocarina Of Time]", "id": "130445393882280" },
+      { "name": "Piano [JJK]", "id": "128974772627419" }
+    ]
+  },
+  {
+    "category": "Dramatique",
+    "tracks": [
+      { "name": "Violon [BE STRONG]", "id": "134728836030774" },
+      { "name": "Triste [THE WAY]", "id": "86740621266528" },
+      { "name": "Révelation [KARA'S THEME]", "id": "100287198970994" },
+      { "name": "Emotion [Call of Silence]", "id": "112745629739661" },
+      { "name": "Dramatique/Epique [Call of Silence X Zero Eclipse COPYRIGHT]", "id": "101624398295810" },
+      { "name": "Emouvant [Glassy Sky (TOKYO GHOUL PIANO)]", "id": "74905620245819" },
+      { "name": "Emotion x Action [Headlock]", "id": "107306311290319" },
+      { "name": "Triste/Mort [Call of Silence X Call Your Name]", "id": "130839385474620" },
+      { "name": "Emouvant [On My Own (Tokyo Ghoul)]", "id": "134349731110185" }
+    ]
+  },
+  {
+    "category": "Exploration",
+    "tracks": [
+      { "name": "Tension [APEX]", "id": "129987447291298" },
+      { "name": "Départ d'Expedition [TDM]", "id": "105247535271340" },
+      { "name": "Découverte [Bleach]", "id": "122490456212445" }
+    ]
+  },
+  {
+    "category": "Evenement",
+    "tracks": [
+      { "name": "Festival [LIBERIO FESTIVAL]", "id": "105059030955643" },
+      { "name": "Festival 2 [HISOKA THEME]", "id": "88357063237197" },
+      { "name": "N/A", "id": "1234567908" },
+      { "name": "N/A", "id": "1234567909" }
+    ]
+  }
+]
