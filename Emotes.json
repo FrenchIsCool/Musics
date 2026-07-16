@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Assis",
+    "emotes": [
+      { "name": "1", "animId": "rbxassetid://138020705138017" },
+      { "name": "2", "animId": "rbxassetid://83108256444782" },
+      { "name": "3", "animId": "rbxassetid://126251644715787" },
+      { "name": "4", "animId": "rbxassetid://98459181914462" }
+    ]
+  },
+  {
+    "name": "Actions",
+    "emotes": [
+      { "name": "Pompes", "animId": "rbxassetid://76626314560485" },
+      { "name": "Epuisé", "animId": "rbxassetid://122382494833954" },
+      { "name": "Ennuyé", "animId": "rbxassetid://87135431634666" },
+      { "name": "Ennuyé 2", "animId": "rbxassetid://91810723885435" }
+    ]
+  },
+  {
+    "name": "Saluts",
+    "emotes": [
+      { "name": "Saluer", "animId": "rbxassetid://109910224958309" },
+      { "name": "Incliner", "animId": "rbxassetid://114055496055548" },
+      { "name": "Pointer", "animId": "rbxassetid://99371414483897" },
+      { "name": "Pointer 2", "animId": "rbxassetid://507770453" }
+    ]
+  },
+  {
+    "name": "Humeur",
+    "emotes": [
+      { "name": "Trauma 1", "animId": "rbxassetid://114605872095146" },
+      { "name": "Trauma 2", "animId": "rbxassetid://98396411390961" },
+      { "name": "Timide", "animId": "rbxassetid://90425974521137" },
+      { "name": "Pensif", "animId": "rbxassetid://106308562578234" }
+    ]
+  },
+  {
+    "name": "Page 2",
+    "emotes": [
+      { "name": "Extra 1", "animId": "rbxassetid://507768375" },
+      { "name": "Extra 2", "animId": "rbxassetid://507767668" }
+    ]
+  }
+]
