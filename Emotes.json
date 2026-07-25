@@ -22,6 +22,7 @@
     "emotes": [
       { "name": "Saluer", "animId": "rbxassetid://109910224958309" },
       { "name": "Incliner", "animId": "rbxassetid://114055496055548" },
+      { "name": "Repos", "animId": "rbxassetid://140700500881854" },
       { "name": "Pointer", "animId": "rbxassetid://99371414483897" },
       { "name": "Pointer 2", "animId": "rbxassetid://507770453" }
     ]
@@ -32,14 +33,18 @@
       { "name": "Trauma 1", "animId": "rbxassetid://114605872095146" },
       { "name": "Trauma 2", "animId": "rbxassetid://98396411390961" },
       { "name": "Timide", "animId": "rbxassetid://90425974521137" },
+      { "name": "Triste 1", "animId": "rbxassetid://114463168423850" },
       { "name": "Pensif", "animId": "rbxassetid://106308562578234" }
     ]
   },
   {
-    "name": "Page 2",
+    "name": "Accouder",
     "emotes": [
-      { "name": "Extra 1", "animId": "rbxassetid://507768375" },
-      { "name": "Extra 2", "animId": "rbxassetid://507767668" }
+      { "name": "S'accouder 1", "animId": "rbxassetid://108815725594782" },
+      { "name": "S'accouder 2", "animId": "rbxassetid://94694100270931" },
+      { "name": "S'accouder 3", "animId": "rbxassetid://103637502464654" },
+      { "name": "S'accouder 4", "animId": "rbxassetid://74211547134037" },
+      { "name": "Triste contre un mur", "animId": "rbxassetid://130463064785288" }
     ]
   }
 ]
