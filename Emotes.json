@@ -46,5 +46,15 @@
       { "name": "S'accouder 4", "animId": "rbxassetid://74211547134037" },
       { "name": "Triste contre un mur", "animId": "rbxassetid://130463064785288" }
     ]
+  },
+  {
+    "name": "Chaise",
+    "emotes": [
+      { "name": "Chaise 1", "animId": "rbxassetid://100613094074443" },
+      { "name": "Chaise 2", "animId": "rbxassetid://74082708803401" },
+      { "name": "Chaise 3", "animId": "rbxassetid://139053327562089" },
+      { "name": "Chaise 4", "animId": "rbxassetid://95301094743883" },
+      { "name": "Chaise 5", "animId": "rbxassetid://115727490863401" }
+    ]
   }
 ]
