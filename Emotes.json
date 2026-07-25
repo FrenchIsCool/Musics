@@ -50,11 +50,19 @@
   {
     "name": "Chaise",
     "emotes": [
-      { "name": "Chaise 1", "animId": "rbxassetid://100613094074443" },
-      { "name": "Chaise 2", "animId": "rbxassetid://74082708803401" },
-      { "name": "Chaise 3", "animId": "rbxassetid://139053327562089" },
-      { "name": "Chaise 4", "animId": "rbxassetid://95301094743883" },
-      { "name": "Chaise 5", "animId": "rbxassetid://115727490863401" }
+      { "name": "Chaise 1", "animId": "rbxassetid://135431810615867" },
+      { "name": "Chaise 2", "animId": "rbxassetid://75601411028073" },
+      { "name": "Table 1", "animId": "rbxassetid://71604935403683" },
+      { "name": "Table 2", "animId": "rbxassetid://135027553400711" }
+    ]
+  },
+  {
+    "name": "S'allonger",
+    "emotes": [
+      { "name": "S'allonger 1", "animId": "rbxassetid://105478999632302" },
+      { "name": "S'allonger 2", "animId": "rbxassetid://88052939118289" },
+      { "name": "S'allonger 3", "animId": "rbxassetid://99170978371557" },
+      { "name": "S'allonger sur un rebord", "animId": "rbxassetid://119279510764296" }
     ]
   }
 ]
