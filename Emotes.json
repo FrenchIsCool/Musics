@@ -41,7 +41,7 @@
     "name": "Accouder",
     "emotes": [
       { "name": "S'accouder 1", "animId": "rbxassetid://108815725594782" },
-      { "name": "S'accouder 2", "animId": "rbxassetid://94694100270931" },
+      { "name": "S'accouder 2", "animId": "rbxassetid://89857404418856" },
       { "name": "S'accouder 3", "animId": "rbxassetid://103637502464654" },
       { "name": "S'accouder 4", "animId": "rbxassetid://74211547134037" },
       { "name": "Triste contre un mur", "animId": "rbxassetid://130463064785288" }
@@ -50,19 +50,19 @@
   {
     "name": "Chaise",
     "emotes": [
-      { "name": "Chaise 1", "animId": "rbxassetid://135431810615867" },
-      { "name": "Chaise 2", "animId": "rbxassetid://75601411028073" },
-      { "name": "Table 1", "animId": "rbxassetid://71604935403683" },
-      { "name": "Table 2", "animId": "rbxassetid://135027553400711" }
+      { "name": "Chaise 1", "animId": "rbxassetid://139994529429228" },
+      { "name": "Chaise 2", "animId": "rbxassetid://91669140229243" },
+      { "name": "Table 1", "animId": "rbxassetid://127124308394616" },
+      { "name": "Table 2", "animId": "rbxassetid://139222155875254" }
     ]
   },
   {
     "name": "S'allonger",
     "emotes": [
-      { "name": "S'allonger 1", "animId": "rbxassetid://105478999632302" },
-      { "name": "S'allonger 2", "animId": "rbxassetid://88052939118289" },
-      { "name": "S'allonger 3", "animId": "rbxassetid://99170978371557" },
-      { "name": "S'allonger sur un rebord", "animId": "rbxassetid://119279510764296" }
+      { "name": "S'allonger 1", "animId": "rbxassetid://89644106057241" },
+      { "name": "S'allonger 2", "animId": "rbxassetid://87863216133470" },
+      { "name": "S'allonger 3", "animId": "rbxassetid://120509231387476" },
+      { "name": "S'allonger sur un rebord", "animId": "rbxassetid://73351148679248" }
     ]
   }
 ]
