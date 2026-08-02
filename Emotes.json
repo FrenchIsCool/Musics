@@ -57,6 +57,15 @@
     ]
   },
   {
+    "name": "Gestes",
+    "emotes": [
+      { "name": "Epier", "animId": "rbxassetid://74702092211833" },
+      { "name": "Observer", "animId": "rbxassetid://117521316754008" },
+      { "name": "Oui", "animId": "rbxassetid://85937995810957" },
+      { "name": "Non", "animId": "rbxassetid://104624258160063" }
+    ]
+  },
+  {
     "name": "S'allonger",
     "emotes": [
       { "name": "S'allonger 1", "animId": "rbxassetid://89644106057241" },
