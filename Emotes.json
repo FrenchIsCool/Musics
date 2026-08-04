@@ -2,18 +2,27 @@
   {
     "name": "Assis",
     "emotes": [
-      { "name": "1", "animId": "rbxassetid://138020705138017" },
-      { "name": "2", "animId": "rbxassetid://83108256444782" },
-      { "name": "3", "animId": "rbxassetid://126251644715787" },
-      { "name": "4", "animId": "rbxassetid://98459181914462" }
+      { "name": "Assis 1", "animId": "rbxassetid://138020705138017" },
+      { "name": "Assis 2", "animId": "rbxassetid://82535610843983" },
+      { "name": "Assis 3", "animId": "rbxassetid://126381208955367" },
+      { "name": "Assis 4", "animId": "rbxassetid://75932924519589" },
+      { "name": "Assis 5", "animId": "rbxassetid://72885699056951" },
+      { "name": "Assis 6", "animId": "rbxassetid://77592185546952" },
+      { "name": "Assis 7", "animId": "rbxassetid://87585141248172" },
+      { "name": "Assis Rebord", "animId": "rbxassetid://137523406321262" }
     ]
   },
   {
     "name": "Actions",
     "emotes": [
-      { "name": "Pompes", "animId": "rbxassetid://76626314560485" },
-      { "name": "Epuisé", "animId": "rbxassetid://122382494833954" },
+      { "name": "Pompes", "animId": "rbxassetid://123569410706727" },
+      { "name": "Epuisé", "animId": "rbxassetid://123564166339411" },
       { "name": "Ennuyé", "animId": "rbxassetid://87135431634666" },
+      { "name": "Serrer la main", "animId": "rbxassetid://138588826306320" },
+      { "name": "S'étirer", "animId": "rbxassetid://92588914995323" },
+      { "name": "Se rendre", "animId": "rbxassetid://131275748954820" },
+      { "name": "Impatient", "animId": "rbxassetid://112204784679143" },
+      { "name": "S'excuser", "animId": "rbxassetid://116775168862056" },
       { "name": "Ennuyé 2", "animId": "rbxassetid://91810723885435" }
     ]
   },
@@ -32,9 +41,12 @@
     "emotes": [
       { "name": "Trauma 1", "animId": "rbxassetid://114605872095146" },
       { "name": "Trauma 2", "animId": "rbxassetid://98396411390961" },
+      { "name": "Effrayé", "animId": "rbxassetid://123469290966606" },
       { "name": "Timide", "animId": "rbxassetid://90425974521137" },
       { "name": "Triste 1", "animId": "rbxassetid://114463168423850" },
-      { "name": "Pensif", "animId": "rbxassetid://106308562578234" }
+      { "name": "Triste 2", "animId": "rbxassetid://125850149782188" },
+      { "name": "Pensif", "animId": "rbxassetid://118460004105942" },
+      { "name": "Confus", "animId": "rbxassetid://106308562578234" }
     ]
   },
   {
@@ -44,14 +56,18 @@
       { "name": "S'accouder 2", "animId": "rbxassetid://89857404418856" },
       { "name": "S'accouder 3", "animId": "rbxassetid://103637502464654" },
       { "name": "S'accouder 4", "animId": "rbxassetid://74211547134037" },
+      { "name": "S'accouder 5", "animId": "rbxassetid://76986101404487" },
+      { "name": "S'accouder 6", "animId": "rbxassetid://127946975629473" },
       { "name": "Triste contre un mur", "animId": "rbxassetid://130463064785288" }
     ]
   },
   {
     "name": "Chaise",
     "emotes": [
-      { "name": "Chaise 1", "animId": "rbxassetid://139994529429228" },
-      { "name": "Chaise 2", "animId": "rbxassetid://91669140229243" },
+      { "name": "Chaise 1", "animId": "rbxassetid://87388447601527" },
+      { "name": "Chaise 2", "animId": "rbxassetid://114038484236443" },
+      { "name": "Chaise 3", "animId": "rbxassetid://111549619837904" },
+      { "name": "Chaise 4", "animId": "rbxassetid://97435155049332" },
       { "name": "Table 1", "animId": "rbxassetid://127124308394616" },
       { "name": "Table 2", "animId": "rbxassetid://139222155875254" }
     ]
@@ -60,17 +76,38 @@
     "name": "Gestes",
     "emotes": [
       { "name": "Epier", "animId": "rbxassetid://74702092211833" },
-      { "name": "Observer", "animId": "rbxassetid://117521316754008" },
-      { "name": "Oui", "animId": "rbxassetid://85937995810957" },
-      { "name": "Non", "animId": "rbxassetid://104624258160063" }
+      { "name": "Observer en bas", "animId": "rbxassetid://117521316754008" },
+      { "name": "Observer en haut", "animId": "rbxassetid://104638662106672" },
+      { "name": "Oui", "animId": "rbxassetid://107171971728391" },
+      { "name": "Croiser les bras", "animId": "rbxassetid://123029537634149" },
+      { "name": "Provoquer", "animId": "rbxassetid://128948431177244" },
+      { "name": "Non", "animId": "rbxassetid://118378815555249" }
+    ]
+  },
+  {
+    "name": "Danses",
+    "emotes": [
+      { "name": "Slide", "animId": "rbxassetid://118543847398462" },
+      { "name": "Dab", "animId": "rbxassetid://90060001681473" },
+      { "name": "Bourré", "animId": "rbxassetid://132530219484135" },
+      { "name": "Hyperactif", "animId": "rbxassetid://122721365425831" },
+      { "name": "Bras en l'air", "animId": "rbxassetid://92762760929167" },
+      { "name": "Cercles", "animId": "rbxassetid://81703878075721" },
+      { "name": "Sauter le pas", "animId": "rbxassetid://102334020357442" },
+      { "name": "Break", "animId": "rbxassetid://97591041764886" },
+      { "name": "Stylé", "animId": "rbxassetid://106649209993241" },
+      { "name": "Folie", "animId": "rbxassetid://104061028444781" }
     ]
   },
   {
     "name": "S'allonger",
     "emotes": [
-      { "name": "S'allonger 1", "animId": "rbxassetid://89644106057241" },
+      { "name": "S'allonger 1", "animId": "rbxassetid://99378778479397" },
       { "name": "S'allonger 2", "animId": "rbxassetid://87863216133470" },
       { "name": "S'allonger 3", "animId": "rbxassetid://120509231387476" },
+      { "name": "S'allonger 4", "animId": "rbxassetid://90333511044639" },
+      { "name": "S'allonger 5", "animId": "rbxassetid://79512580395905" },
+      { "name": "S'allonger 6", "animId": "rbxassetid://137217872743467" },
       { "name": "S'allonger sur un rebord", "animId": "rbxassetid://73351148679248" }
     ]
   }
