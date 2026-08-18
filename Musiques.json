@@ -10,8 +10,10 @@
       { "name": "Important/Révelation [Bird in a Cage]", "id": "107879898765860" },
       { "name": "Motivation [Claim Your Destiny (Guitare + Drop)]", "id": "104337058687793" },
       { "name": "Epique Puis Violon [Awaken]", "id": "107863483621590" },
-      { "name": "Treachery [Bleach]", "id": "115419812553867" },
+      { "name": "OST FEMELLE [Female Titan]", "id": "140402515046555" },
       { "name": "Epique [Transformers 5]", "id": "117349730201538" },
+      { "name": "Important/Départ [TWO LIVES]", "id": "85904000997373" },
+      { "name": "Grande Bataille [Triple Domain Expansion]", "id": "104632957922306" },
       { "name": "Epique [OPM]", "id": "102408843381923" }
     ]
   },
@@ -37,6 +39,9 @@
       { "name": "Combat/Titans [Dancing Titan Battle Theme]", "id": "139866743895459" },
       { "name": "Titans [HxH Rock]", "id": "79661165783012" },
       { "name": "Titans [Your Battle is my Battle (JJK)]", "id": "87019218022276" },
+      { "name": "Punky [Serlo]", "id": "93425334590661" },
+      { "name": "Combat Lourd [Exp 33]", "id": "83231601825816" },
+      { "name": "Début de Combat [The Feeling of Not Losing (KUROKO)]", "id": "131108542414291" },
       { "name": "Action/Combat [Martial Artist (HXH)]", "id": "125958475267907" }
     ]
   },
@@ -51,10 +56,14 @@
       { "name": "Calme [SOUND OF HEART]", "id": "71417437488889" },
       { "name": "Calme [Voices of the Chord (GUITARE DOUCE)]", "id": "132283428883484" },
       { "name": "Joie après effort/Evenement [Flowers]", "id": "132432804428604" },
-      { "name": "Calme Heureux [Musique de SERLO]", "id": "72102915859907" },
+      { "name": "Calme Heureux [SERLO]", "id": "72102915859907" },
       { "name": "Inquiétant/Tension [Titan Invasion]", "id": "74308033069841" },
       { "name": "Violon [Ocarina Of Time]", "id": "130445393882280" },
-      { "name": "Piano [JJK]", "id": "128974772627419" }
+      { "name": "Piano [JJK]", "id": "128974772627419" },
+      { "name": "Amusement [Serlo]", "id": "120624822918077" },
+      { "name": "Apaisant [Liberio at Night]", "id": "88751580012680" },
+      { "name": "Joie [NEXT TO YOU]", "id": "107185409939782" },
+      { "name": "Seraine [Relais (BOTW)]", "id": "125912752559648" }
     ]
   },
   {
@@ -68,6 +77,8 @@
       { "name": "Emouvant [Glassy Sky (TOKYO GHOUL PIANO)]", "id": "74905620245819" },
       { "name": "Emotion x Action [Headlock]", "id": "107306311290319" },
       { "name": "Triste/Mort [Call of Silence X Call Your Name]", "id": "130839385474620" },
+      { "name": "Sacrifice/Emouvance [Fin d'SNK]", "id": "128780654323912" },
+      { "name": "Grand Moment [Mugen Train Avant Title]", "id": "78100447954905" },
       { "name": "Emouvant [On My Own (Tokyo Ghoul)]", "id": "134349731110185" }
     ]
   },
@@ -84,7 +95,7 @@
     "tracks": [
       { "name": "Festival [LIBERIO FESTIVAL]", "id": "105059030955643" },
       { "name": "Festival 2 [HISOKA THEME]", "id": "88357063237197" },
-      { "name": "N/A", "id": "1234567908" },
+      { "name": "Danse" [Monoco], "id": "85086126232874" },
       { "name": "N/A", "id": "1234567909" }
     ]
   }
